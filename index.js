@@ -1,1 +1,6 @@
-console.log("Hello Sonaer");
+
+function test(){
+    console.log("Hello Sonaer");
+}
+
+test();
